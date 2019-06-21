@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml:2:1-10:12
+INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml:2:1-10:12
+INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml:2:1-10:12
+INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml:2:1-10:12
+INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml:2:1-10:12
+INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml:2:1-10:12
+INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml:2:1-10:12
+	package
+		ADDED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml:4:5-25
+		INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+		INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml:6:7-35
+		INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+		INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml:5:7-34
+		INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+		INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+		ADDED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+		INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+		ADDED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
+		INJECTED from D:\Aman Projects\FaceFilterDemo\openCVLibrary2411\src\main\AndroidManifest.xml
